@@ -1,4 +1,5 @@
 # lovelace-hass-arlo
+![favicon-contour](https://github.com/user-attachments/assets/167b878e-e997-4c9a-8e6f-9b9eb9749ad2)
 This is my fork to test changes before committing to the twrecked original repo.
 I forced FR language changes (pending on twrecked repo) through my own repo lang folder into hass-aarlo.js (line 2265) for test purpose as well.
 
