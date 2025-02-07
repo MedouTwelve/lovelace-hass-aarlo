@@ -1,4 +1,5 @@
 # lovelace-hass-arlo
+This is my fork to test changes before committing to the twrecked repo.
 
 ## Version 0.3
 
