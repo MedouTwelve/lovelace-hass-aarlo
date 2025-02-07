@@ -1,5 +1,6 @@
 # lovelace-hass-arlo
-This is my fork to test changes before committing to the twrecked repo.
+This is my fork to test changes before committing to the twrecked original repo.
+I forced FR language changes (pending on twrecked repo) through my own repo lang folder into hass-aarlo.js (line 2265) for test purpose as well.
 
 ## Version 0.3
 
