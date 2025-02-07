@@ -1,7 +1,10 @@
 # lovelace-hass-arlo
-<img src="https://github.com/user-attachments/assets/167b878e-e997-4c9a-8e6f-9b9eb9749ad2" width="100" height="auto" alt="favico Studio Twelve"/>
+<img src="https://github.com/user-attachments/assets/167b878e-e997-4c9a-8e6f-9b9eb9749ad2" width="100" height="auto" alt="favico Studio Twelve"/> by Medou Twelve
+
+## Main différences with twrecked repo
+
 This is my fork to test changes before committing to the twrecked original repo.<br />
-I forced FR language changes (pending on twrecked repo) through my own repo lang folder into hass-aarlo.js (line 2265) for test purpose as well.
+I'm trying to force FR language changes (pending on twrecked repo) through my own repo lang folder into hass-aarlo.js (line 2265) for test purpose as well.
 
 ## Version 0.3
 
