@@ -2263,7 +2263,7 @@ class AarloGlance extends HTMLElement {
             this._log( `importing ${lang} language` )
             try {
                 //module = await import(`https://twrecked.github.io/lang/${lang.toLowerCase()}.js?t=${new Date().getTime()}`)
-                module = await import(`https://github.com/MedouTwelve/lovelace-hass-aarlo/tree/master/lang/${lang.toLowerCase()}.js?t=${new Date().getTime()}`)
+                module = await import(`https://github.com/MedouTwelve/lovelace-hass-aarlo/tree/master/lang/fr.js?t=${new Date().getTime()}`)
                 this._i = module.messages
             } catch( error ) {
                 this._log( `failed to load language pack: ${lang}` )
